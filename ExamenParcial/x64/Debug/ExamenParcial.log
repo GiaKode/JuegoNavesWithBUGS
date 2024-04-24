@@ -1,0 +1,30 @@
+﻿  Main.cpp
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Ciclo 3\Progra 2\Semana 8\GiakomoCausso_u202118374\ExamenParcial\ExamenParcial\Controladora.h(137,7): error C2365: 'Controladora::cronometro': nueva definición; la definición anterior era 'miembro de datos'
+  (compilando archivo de origen "/Main.cpp")
+  C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Ciclo 3\Progra 2\Semana 8\GiakomoCausso_u202118374\ExamenParcial\ExamenParcial\Controladora.h(15,9):
+  vea la declaración de 'Controladora::cronometro'
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Ciclo 3\Progra 2\Semana 8\GiakomoCausso_u202118374\ExamenParcial\ExamenParcial\Controladora.h(138,3): error C2059: error de sintaxis: 'if'
+  (compilando archivo de origen "/Main.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Ciclo 3\Progra 2\Semana 8\GiakomoCausso_u202118374\ExamenParcial\ExamenParcial\Controladora.h(138,54): error C2238: símbolos (token) inesperados delante de ';'
+  (compilando archivo de origen "/Main.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Ciclo 3\Progra 2\Semana 8\GiakomoCausso_u202118374\ExamenParcial\ExamenParcial\Controladora.h(139,3): error C2059: error de sintaxis: 'else'
+  (compilando archivo de origen "/Main.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Ciclo 3\Progra 2\Semana 8\GiakomoCausso_u202118374\ExamenParcial\ExamenParcial\Controladora.h(139,20): error C2238: símbolos (token) inesperados delante de ';'
+  (compilando archivo de origen "/Main.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Ciclo 3\Progra 2\Semana 8\GiakomoCausso_u202118374\ExamenParcial\ExamenParcial\Controladora.h(142,1): error C2059: error de sintaxis: '}'
+  (compilando archivo de origen "/Main.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Ciclo 3\Progra 2\Semana 8\GiakomoCausso_u202118374\ExamenParcial\ExamenParcial\Controladora.h(142,1): error C2143: error de sintaxis: falta ';' delante de '}'
+  (compilando archivo de origen "/Main.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Ciclo 3\Progra 2\Semana 8\GiakomoCausso_u202118374\ExamenParcial\ExamenParcial\Main.cpp(11,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  (compilando archivo de origen "/Main.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Ciclo 3\Progra 2\Semana 8\GiakomoCausso_u202118374\ExamenParcial\ExamenParcial\Main.cpp(33,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/Main.cpp")
+  
